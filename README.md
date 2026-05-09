@@ -91,7 +91,7 @@ https://www.figma.com/design/v7ryaxyhs864maw2kAR7uE/MindWay?node-id=0-1&p=f&t=kC
 
 <h2>👥 Autores do PFC </h2>
 <ol>
-<li><b>Product Owner- Gestão de Backlog e  Requisitos</b> =   Lídia Souza de Oliveira Pietrobon</li>
+<li><b>Product Owner PO/PM- Gestão de Backlog e  Requisitos</b> =   Lídia Souza de Oliveira Pietrobon</li>
 <li>             <b>BackEnd - Arquitetura e Integração</b> = Lucas Lydio do Carmo              
 </li>
 <li>            <b>Frontend- UX/UI e Dashoboards</b> = Luís Fernando Pereira </li>
