@@ -1,3 +1,11 @@
+
+<h1>Formulários dos profissionais</h1>
+https://docs.google.com/forms/d/e/1FAIpQLScvPBHkY-DQ4ZWhiA-W_vMuWqmhJvTklDIMpObBZ08rwdYcYw/viewform?usp=dialog
+
+<h1>Formulário do Pai / Responsável</h1>
+https://docs.google.com/forms/d/e/1FAIpQLSd3bQxCp5kaYNgDZEnvsM3QakKC0zk3EvxXgBXJLd7udr5XMQ/viewform?usp=dialog
+
+<h1>Link do Figma(Prototipos)</h1>
 https://www.figma.com/design/v7ryaxyhs864maw2kAR7uE/MindWay?node-id=0-1&p=f&t=kCEafWlSCzSZfqoO-0
 
 <h2>🧩MindWay: Inteligência Conectada à Saúde Mental</h2>
